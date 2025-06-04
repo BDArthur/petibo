@@ -10,9 +10,9 @@ export default {
         poppins: [ "Poppins", "serif"],
       },
       colors: {
-        primary: "#d1c8bf",
-        secondary: "#b2aba3",
-        primaryDark: "#a09992",
+        primary: "#fac8e6",
+        secondary: "#ff66c4",
+        primaryDark: "#fac8e6",
       },
       container: {
         center: true,
